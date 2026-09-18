@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there!+I'm+Soumya+Ranjan+Mishra+%F0%9F%91%8B;Full+Stack+Developer+(MERN)+%F0%9F%92%BB;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+clean%2C+user-focused+web+apps+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
